@@ -17,16 +17,13 @@ info:
   shortdesc: .Net C# developer
   email: veronika13kostenko@gmail.com
   phone: +38067 630 53 94 # not mandatory
-  # homepage: http://linkedin/ # not mandatory
-  # github: http://linkedin/ # Not mandatory
-  # linkedin: http://linkedin/ # not mandatory
-  # twitter: http://twitter.com/ # not mandatory
+  linkedin: http://linkedin/ # not mandatory
   address:
-    # street:  Fake Street
-    city: Dnipro
-    # region: Region # not mandatory
-    # postal_code: 12345 # not mandatory
-    country: Ukraine # not mandatory
+    street: 123 Fake Street
+    city: City
+    region: Region # not mandatory
+    postal_code: 12345 # not mandatory
+    country: Country # not mandatory
   desc: |
     Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
 
@@ -39,43 +36,35 @@ skills:
     desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 languages:
-  - name: Ukraine
+  - name: Gibberish
     level: Native language
-  - name: Russian 
+  - name: Manager Speak
     level: Fluent
-  - name: English
-    level: Intermediate
 
 alphabetsoup:
-  - .Net
-  - C#
-  - MongoDB
-  - MS SQL Server
-  - MySQl
   - XHTML
   - CSS
   - Javascript
   - Jquery
-  - AJAX
-  - API
-  - Services
-  - Git/Mercurial
+  - PHP
+  - CVS / Subversion
   - OS X
-  - Windows
+  - Windows XP/Vista
+  - Linux
 
-# links: # this section is not mandatory
-#   - name: Link1
-#     url: http://example.com/
-#   - name: Another link
-#     url: https://example.com/
+links: # this section is not mandatory
+  - name: Link1
+    url: http://example.com/
+  - name: Another link
+    url: https://example.com/
 
 jobs:
-  - title: Senior C# .Net Developer
-    company: Feedgee
-    url: http://feedgee.com/
+  - title: Senior Interface Designer
+    company: Famous Company
+    url: http://example.com/
     dates:
-      start: 2014-02-12
-      end: 2018-02-02
+      start: 2007-01-02
+      end: Present
     desc: |
       Intrinsicly enable optimal core competencies through corporate relationships.
 
@@ -83,12 +72,11 @@ jobs:
 
       Conveniently initiate virtual paradigms and top-line convergence.
 
-  - title: C# .Net Developer
-    company: WebXloo
-    url: https://webxloo.com/
+  - title: Junior Interface Designer
+    company: Technocorp
     dates:
-      start: 2013-09
-      end: 2014-02
+      start: 2005-01-01
+      end: 2007-01-01
     desc: |
       Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
 
@@ -97,32 +85,30 @@ jobs:
       Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
 
 education: # this section is not mandatory
-  - name: Dnipro National University of Rail Transport
-    url: http://diit.edu.ua/ # not mandatory
-    city: Dnipro
-    # region: Ukraine
-    country: Ukraine # not mandatory
+  - name: Indiana University
+    url: http://indiana.edu # not mandatory
+    city: Bloomington
+    region: Indiana
+    country: USA # not mandatory
     dates:
-      start: 2008-09
-      end: 2013-07 # not mandatory
-    title: Software engineer
-    grade: Master # not mandatory
+      start: 2001-01-01
+      end: 2010-01-01 # not mandatory
+    title: Dual Major, Economics and English
+    grade: 4.0 GPA # not mandatory
 
-# projects: # this section is not mandatory
-#   - name: ResumeMan
-#     desc: |
-#       Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
-#     url: https://github.com/reefab/ResumeMan # not mandatory
-#     dates: # not mandatory
-#       start: 2013-02-18
-#       end: 2014-04-05 # not mandatory
-#     location: # not mandatory
-#       city: Florence
-#       region: Tuscany
-#       country: Italy # not mandatory
+projects: # this section is not mandatory
+  - name: ResumeMan
+    desc: |
+      Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
+    url: https://github.com/reefab/ResumeMan # not mandatory
+    dates: # not mandatory
+      start: 2013-02-18
+      end: 2014-04-05 # not mandatory
+    location: # not mandatory
+      city: Florence
+      region: Tuscany
+      country: Italy # not mandatory
 
 interests: # this section is not mandatory
-  - Photography
-  - Travelling
-  - Hiking
-  - Sports and healthy lifestyle
+  - Underwater basket weaving
+  - Competitive Rock Paper Scissors
