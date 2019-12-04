@@ -1,4 +1,15 @@
+```
+bundle exec middleman build && open build/resume.pdf
+```
+
+```
+bundle exec middleman
+```
+
+
 # Resume Man
+
+[![Build Status](https://travis-ci.org/reefab/ResumeMan.svg?branch=master)](https://travis-ci.org/reefab/ResumeMan)
 
 Resume Man is an HTML and PDF resume builder made in Ruby with [Middleman](http://middlemanapp.com/).
 
